@@ -22,5 +22,5 @@ nvcc -gencode=arch=compute_50,code=\"sm_50,compute_50\" -o cuda Cuda.cu
 
 # 三种实现的时间
 
-![table](E:\学习资料\大三下\demo\parallel-computing\table.png)
+![table](.\table.png)
 
